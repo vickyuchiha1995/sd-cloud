@@ -1,0 +1,28 @@
+.Account-details-container{
+    width: 100%;
+    height: 450px;
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.Admin-login-container{
+    width: 100%;
+    height: 350px;
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.stepper-label-style{
+    color: rgb(100, 100, 100);
+    font-size: 12px;
+}
+
+.stepper-account-details-btncontainer{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
